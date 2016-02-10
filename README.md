@@ -17,7 +17,7 @@ Here is a table with each of the old libraries and a link to their new unique
 GitHub repositories and easy pip install names:
 
 | Old Library Name | New Library Location | New `pip install` Package Name | Notes |
-|------------------|----------------------|------------------------|
+|------------------|----------------------|--------------------------------|-------|
 | Adafruit_ADS1x15 | https://github.com/adafruit/Adafruit_ADS1X15 | adafruit-ads1x15 | [See guide](https://learn.adafruit.com/raspberry-pi-analog-to-digital-converters). |
 | Adafruit_ADXL345 | TBD | TBD | - |
 | Adafruit_BMP085 | https://github.com/adafruit/Adafruit_Python_BMP | TBD | [See guide](https://learn.adafruit.com/using-the-bmp085-with-raspberry-pi/using-the-adafruit-bmp085-python-library). |
